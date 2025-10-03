@@ -1,0 +1,1 @@
+https://javarush.com/groups/posts/2126-kratkoe-znakomstvo-s-gradle
